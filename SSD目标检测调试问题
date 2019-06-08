@@ -1,0 +1,2 @@
+1、kernel died或者connecting to kernel 卡住
+   将ckpt_filename的路径设置到模型文件文件名，模型文件解压，不能只设置到模型文件夹
